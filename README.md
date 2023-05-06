@@ -1,25 +1,25 @@
 ![console overhaul](https://github.com/8BitShadow/media-resources/blob/main/console%20overhaul.png?raw=true)
 # Miscellaneous Console Commands
 ## About
-"Miscellaneous Console Commands" is an expansion mod for the console overhaul modpack which provides some debugging commands both specifically for M.U.T, B.A.C. and TSBind, and general modding. All commands added by Console Overhaul allays begin with the prefix 'CO', making searching through Console Overhals' commands easy.
+"Miscellaneous Console Commands" is an expansion mod for the console overhaul modpack which provides some debugging commands both specifically for M.U.T, B.A.C. and TSBind, and general modding. All commands added by Console Overhaul will always begin with the prefix 'CO', making searching through Console Overhals' commands easy.
 
 ## Usage
-To use one of the commands; write them in the console command in-game (some require being in a single/muilti-player match to function correctly):
-- CODBGValidBACACRI: Prints a list of all valid Auto-Complete Recognition Items.
+To use one of the commands; write them in the console in-game (some require being in a single or muilti-player match to function correctly):
+- CODBGValidBACACRI: Prints a list of all valid the Auto-Complete Recognition Items.
 - CODBGMUTTest (string): Tests the MUT feature, either for debugging MUT or testing if your query is written correctly. If successful; prints the username of each returned player.
-- CODBGCheats {boolean}: Returns if cheats are active or not when run with no parameters, otherwise activates/deactivates cheats. Note that once activated, even when later deactivated, the sessions cheats can't be de-activated without a game restart. This is hardcoded in and is intentional anyway.
+- CODBGCheats {boolean}: Returns if cheats are active or not when run with no parameters, otherwise activates/deactivates cheats. Note that once activated, even when later deactivated, the sessions' cheats can't be de-activated without a game restart. This is hardcoded by the game and is intentional anyway.
 - CODBGClearLocalChat: Clears the chat (locally).
-- CODBGPinging: Toggles the debug pinger (prints in CC what is currently being pinged (locally))
-- CODBGTogglePrintButtonPress: Toggles printing what key is currently being pressed.
-- CODBGToggleBACDebugging {unsigned-short}: Toggles debugging for all B.A.C. Console Commands according to the verbos level.
-  - Verbose level 0 (or no parameter input) = causes toggle & never show.
+- CODBGPinging: Toggles the debug pinger (prints in the in-game console what is currently being pinged (locally))
+- CODBGTogglePrintButtonPress: Toggles printing what key is currently being pressed (locally).
+- CODBGToggleBACDebugging {unsigned-short}: Toggles debugging for all B.A.C. Console Commands according to the verbos level. Verbos must be >0 and toggled on to work.
+  - Verbose level 0 (or no parameter input) = toggle debugging & never show.
   - Verbose level 1 = always show
   - Verbose level 2 = errors only
   - Verbose level 3 = quick debug
   - Verbose level 4 = detailed debug
   - Verbose level 5 = overly detailed debug (WARNING: CAUSES LAG)
-- CODBGToggleMUTDebugging {unsigned-short}: Toggles debugging for all M.U.T. Console Commands according to the verbos level.
-  - Verbose level 0 (or no parameter input) = causes toggle & never show.
+- CODBGToggleMUTDebugging {unsigned-short}: Toggles debugging for all M.U.T. Console Commands according to the verbos level. Verbos must be >0 and toggled on to work.
+  - Verbose level 0 (or no parameter input) = toggle debugging & never show.
   - Verbose level 1 = always show
   - Verbose level 2 = errors only
   - Verbose level 3 = quick debug
