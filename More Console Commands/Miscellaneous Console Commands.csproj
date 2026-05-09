@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>More_Console_Commands</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\BepInEx\core\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Assembly-CSharp.R2API.mm">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\BepInEx\monomod\Assembly-CSharp.R2API.mm.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="BAC">
+      <HintPath>..\..\..\Visual Studio 2017\Projects\Consolve Overhaul modpack\BAC\BAC\bin\Debug\BAC.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\BepInEx\core\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="HGCSharpUtils">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed\HGCSharpUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="MMHOOK_Assembly-CSharp">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\BepInEx\plugins\R2API\MMHOOK_Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Multi-User Targeting">
+      <HintPath>..\..\..\Visual Studio 2017\Projects\Consolve Overhaul modpack\MUT\Multi-User Targeting\Multi-User Targeting\bin\Debug\Multi-User Targeting.dll</HintPath>
+    </Reference>
+    <Reference Include="R2API">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\BepInEx\plugins\R2API\R2API.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>X:\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed\UnityEngine.Networking.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

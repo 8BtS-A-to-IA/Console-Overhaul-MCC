@@ -1,0 +1,16 @@
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\Miscellaneous Console Commands.deps.json
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\Miscellaneous Console Commands.dll
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\Miscellaneous Console Commands.pdb
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\BAC.dll
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\Multi-User Targeting.dll
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\Too Much Information.dll
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\obj\Debug\netstandard2.0\Miscellaneous Console Commands.AssemblyInfoInputs.cache
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\obj\Debug\netstandard2.0\Miscellaneous Console Commands.AssemblyInfo.cs
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\obj\Debug\netstandard2.0\Miscellaneous Console Commands.csproj.CoreCompileInputs.cache
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\obj\Debug\netstandard2.0\Miscellaneous Console Commands.csproj.CopyComplete
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\obj\Debug\netstandard2.0\Miscellaneous Console Commands.dll
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\obj\Debug\netstandard2.0\Miscellaneous Console Commands.pdb
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\BAC.pdb
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\Multi-User Targeting.pdb
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\obj\Debug\netstandard2.0\Miscellaneous Console Commands.csproj.AssemblyReference.cache
+C:\Users\shado\Documents\Visual Studio 2019\projects\More Console Commands\bin\Debug\netstandard2.0\HGCSharpUtils.dll
